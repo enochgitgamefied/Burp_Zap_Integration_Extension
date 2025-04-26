@@ -1,5 +1,3 @@
-Perfect — here’s an updated `README.md` section that includes the **ZAP report integration** and explains the **two main tabs** in your Burp extension:
-
 ---
 
 ## 🧩 Burp-ZAP Integration Extension
