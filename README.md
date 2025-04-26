@@ -17,7 +17,7 @@ Your extension consists of **two main modules (tabs)**:
 | File | Function |
 |------|----------|
 | `Burp_Zap_Scan_Advanced.py` | Handles **ZAP launch, shutdown, scan configuration**, and automation logic |
-| `Burp_Zap_Report_Tab.py` | Provides a **dedicated Reporting UI tab** to display and manage **ZAP scan results** |
+| `Burp_Zap_Report.py` | Provides a **dedicated Reporting UI tab** to display and manage **ZAP scan results** |
 
 ---
 
